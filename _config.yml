@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Joel S. Miller
+tagline:          'Amassed Ramblings'
+description:      'Made by <a href="https://twitter.com/esquireofoz" target="_blank">@esquireofoz</a>.  Putting some more text in here to make the sidebar look better.  Yeah, much better.'
+url:              http://esquireofoz.github.io
+baseurl:          /
+
+author:
+  name:           'Joel S. Miller'
+  url:            https://twitter.com/esquireofoz
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           https://github.com/esquireofoz

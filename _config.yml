@@ -9,22 +9,25 @@ relative_permalinks: true
 # Setup
 title:            Joel S. Miller
 tagline:          'Amassed Ramblings'
-description:      'Made by <a href="https://twitter.com/esquireofoz" target="_blank">@esquireofoz</a>.  Putting some more text in here to make the sidebar look better.  Yeah, much better.'
-url:              http://esquireofoz.github.io
+description:      'I head the DevOps Team at <a href="http://www.ideel.com" target="_blank">Ideel</a> where I build scalable infrastructure using <a href="https://twitter.com/awscloud" target="_blank">AWS</a>, <a href="https://twitter.com/puppetlabs" target="_blank">Puppet</a>, <a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>, <a href="https://www.percona.com/software/mysql-database/percona-server" target="_blank">MySQL</a>, <a href="https://twitter.com/elastic" target="_blank">ElasticSearch</a> and a plethora of <a href="https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages" target="_blank">other technologies</a>.'
+
+url:              http://www.joelsmiller.com
 baseurl:          /
 
 author:
   name:           'Joel S. Miller'
   url:            https://twitter.com/esquireofoz
 
-paginate:         5
-
-# Custom vars
-#version:          2.1.0
-
 github:
-  repo:           https://github.com/esquireofoz
+  handle:         https://github.com/esquireofoz
 
-twitter_username:     esquireofoz
-github_username:      esquireofoz
-linkedin_username:    joelsmiller
+twitter:
+  handle:         https://twitter.com/esquireofoz
+
+linkedin:
+  handle:         https://linkedin.com/in/joelsmiller
+
+stackexchange:
+  handle:         http://stackexchange.com/users/1067146/esquireofoz?tab=accounts
+
+paginate:         5

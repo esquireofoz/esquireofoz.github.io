@@ -30,4 +30,6 @@ linkedin:
 stackexchange:
   handle:         http://stackexchange.com/users/1067146/esquireofoz?tab=accounts
 
+exclude:          [vendor]
+
 paginate:         5

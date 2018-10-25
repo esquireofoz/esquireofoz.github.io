@@ -11,6 +11,9 @@ kramdown:
 # Permalinks
 permalink:        pretty
 
+# Pagination
+plugins: [jekyll-paginate]
+
 # Setup
 title:            Joel S. Miller
 tagline:          'Amassed Ramblings'

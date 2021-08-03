@@ -17,7 +17,7 @@ plugins: [jekyll-paginate]
 # Setup
 title:            Joel S. Miller
 tagline:          'Amassed Ramblings'
-description:      'I am an Engineering Manager at <a href="https://www.tumblr.com" target="_blank">Tumblr</a> where I lead a team which builds <a href="https://en.wikipedia.org/wiki/Scalability" target="_blank">scalable</a> and <a href="https://en.wikipedia.org/wiki/Distributed_computing" target="_blank">distributed</a> infrastructure using <a href="https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages" target="_blank">open-source technologies</a>.'
+description:      'I am a Director of Engineering at <a href="https://www.equinox.com" target="_blank">Equinox Fitness</a> where I lead a team which builds <a href="https://en.wikipedia.org/wiki/Scalability" target="_blank">scalable</a> and <a href="https://en.wikipedia.org/wiki/Distributed_computing" target="_blank">distributed</a> infrastructure using <a href="https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages" target="_blank">open-source technologies</a>.'
 
 url:              http://www.joelsmiller.com
 baseurl:          /
